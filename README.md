@@ -66,15 +66,14 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Johnhackwell">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Johnhackwell&count=0&unique=true" alt="Spotify recently played"  />
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314edmlifbletaoevaa2woutvbrq)
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://vercel.app" alt="Spotify recently played" />
   </a>
 </div>
+
 ###
 
 <div data-importer="socials" align="left">
