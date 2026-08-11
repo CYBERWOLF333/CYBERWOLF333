@@ -1,139 +1,58 @@
-
-
+<h1 align="center">Hi 👋, I'm XUL</h1> <h3 align="center">builder · pentester · reverse engineer · purple team</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=cyberwolf333&label=Profile%20views&color=00ff9f&style=for-the-badge" alt="cyberwolf333" /> </p>
 ╔══════════════════════════════════════════════════════════════╗
+║  cyberwolf333@lab:~$ whoami                                  ║
+║  XUL — I build tools, break systems in labs, reverse what    ║
+║  I don't trust, and write detections for my own attacks.     ║
 ║                                                              ║
-║     ██████╗ ███████╗ ██████╗ ███████╗                        ║
-║    ██╔═══██╗██╔════╝██╔═══██╗██╔════╝                        ║
-║    ██║   ██║███████╗██║   ██║███████╗                        ║
-║    ██║   ██║╚════██║██║   ██║╚════██║                        ║
-║    ╚██████╔╝███████║╚██████╔╝███████║                        ║
-║     ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝                        ║
-║                                                              ║
-║              L A B   //   O P E R A T O R                    ║
+║  stack   python · c · bash · go · rust                       ║
+║  focus   dev · pentest · malware-lab · RE · purple           ║
+║  rule    lab only · authorized targets only                  ║
 ╚══════════════════════════════════════════════════════════════╝
-YOUR_NAME
-builder · pentester · reverse eng · purple team
-I ship tools, reverse binaries, and write detections for my own attacks.
-Lab only. Authorized targets only.
 
-GitHub
-Python
-Go
-C
-Bash
-
-</div>
-text
-
-┌─ session ────────────────────────────────────────────────────┐
-│  host     lab.local                                          │
-│  user     YOUR_HANDLE                                        │
-│  shell    zsh / pwndbg energy                                │
-│  focus    dev · pentest · malware-lab · RE · detection       │
-│  status   forging in public                                  │
-└──────────────────────────────────────────────────────────────┘
-Bash
-
-YOUR_HANDLE@lab:~$ whoami
-YOUR_NAME — builder who breaks systems to understand them
-
-YOUR_HANDLE@lab:~$ cat mission.txt
+xul@lab:~$ cat mission.txt
 ship tools.
 reverse binaries.
 detect my own attacks.
 never run malware on the host.
 
-YOUR_HANDLE@lab:~$ ls ~/stack
-python/  c/  bash/  go/  js/  sql/  asm/
+xul@lab:~$ ls ~/lanes
+dev/  pentest/  malware-lab/  reverse/  blue/
 
-YOUR_HANDLE@lab:~$ cat ethics.txt
-authorized labs · in-scope bounty only · no drive-by junk
-<div align="center">
-◆ SYSTEM MAP
-</div>
-text
+xul@lab:~$ cat ethics.txt
+authorized labs · in-scope only · no drive-by junk
 
-                    ┌─────────── dev ───────────┐
-                    │  tools · scanners · C2 lab │
-                    └─────────────┬──────────────┘
-                                  │
-              pentest ◄───────────┼───────────► malware eng
-             (break · report)     │            (build to understand)
-                                  │
-                                  ▼
-                           reverse eng
-                        (read everything)
-                                  │
-                                  ▼
-                         blue / detection
-                      (YARA · logs · purple)
-<div align="center">
-◆ CURRENTLY FORGING
-</div>
-Status	Project	What it is
-🔧	ghostty-syspeek	Linux box X-ray for CTF first minutes — SUID, ports, cron, PATH traps
-🕵️	packet-noir	Packet sniffer that narrates traffic like a noir detective
-📡	portpoet	Concurrent Go port scanner — JSON when serious, haiku when not
-🖥️	portfolio-os	Personal site as a fake hacker desktop (boot + terminal + windows)
-Replace rows with real repo links as you ship:
-[ghostty-syspeek](https://github.com/YOUR_USERNAME/ghostty-syspeek)
+◆ currently forging
+project	vibe
+🔧	ghostty-syspeek	Linux box X-ray for CTF first minutes
+🕵️	packet-noir	sniffer that narrates traffic like a detective
+📡	portpoet	Go scanner — JSON when serious, haiku when not
+🖥️	portfolio-os	personal site as a fake hacker desktop
 
-<div align="center">
-◆ ARSENAL
-</div>
-Pin your best 6 repos on your profile (GitHub UI → Customize pins).
-This table is the human-readable version — update it when pins change.
+        ┌──────── dev ────────┐
+        │ tools · scanners · lab C2 │
+        └──────────┬──────────┘
+                   │
+  pentest ◄────────┼────────► malware eng
+                   │
+                   ▼
+              reverse eng
+                   │
+                   ▼
+            blue / detection
 
-Repo	Stack	Lane
-portfolio-os	JS / CSS	portfolio
-hostaudit	Bash	recon / blue
-dvapi	Python	appsec / pentest
-minitrace	C	reverse eng
-labagent	Go	malware-lab / purple
-writeups	Markdown	HTB · crackmes · notes
-<div align="center">
-◆ CAPABILITY MATRIX
-</div>
-text
 
-Python ...... ████████░░░░  tooling · automation · exploit glue
-C ........... ██████░░░░░░  memory · sockets · RE prep
-Bash ........ ███████░░░░░  Linux ops · box recon
-Go .......... ███░░░░░░░░░  fast scanners · lab beacons
-JavaScript .. ████░░░░░░░░  web attacks · portfolio-os
-SQL ......... ████░░░░░░░░  injection · log queries
-x86-64 Asm .. ██░░░░░░░░░░  reading malware · exploits
-Pentest ..... █████░░░░░░░  web · network · methodology
-RE / Malware  ███░░░░░░░░░  Ghidra · triage · lab only
-Detection ... ██████░░░░░░  logs · YARA ideas · purple docs
-Bars are honest-ish self-scores — they go up when repos go up.
+🔭 Currently working on offensive tooling, reverse engineering & purple-team labs
+🌱 Learning Go · x86-64 asm · malware analysis (lab only)
+💬 Ask me about Python tooling, C/systems, pentest, RE, detections
+⚡ Fun fact I reverse my own binaries before I trust them
 
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/ademola" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> <a href="https://github.com/cyberwolf333" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a> </p><h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 <div align="center">
-◆ FIELD NOTES
-</div>
-📝 Crackme writeup #1 — Ghidra + gdb
-📝 HTB / THM box notes — full attack path
-📝 PortSwigger lab log — SQLi · XSS · access control
-<div align="center">
-◆ TELEMETRY
-<!-- Stats only work AFTER you replace YOUR_USERNAME. If the image is broken, username is still wrong or profile is brand new (wait a bit). --><img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=0a0e14&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true" alt="stats" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&bg_color=0a0e14&title_color=00ff9f&text_color=c9d1d9&hide_border=true" alt="top languages" /></div>
-<div align="center">
-◆ CHANNELS
-</div>
-text
 
-github    →  https://github.com/YOUR_USERNAME
-portfolio →  (host portfolio-os later)
-email     →  YOUR_EMAIL
-discord   →  YOUR_DISCORD
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberwolf333&show_icons=true&theme=radical&bg_color=0a0e14&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true" alt="cyberwolf333 stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberwolf333&layout=compact&langs_count=8&theme=radical&bg_color=0a0e14&title_color=00ff9f&text_color=c9d1d9&hide_border=true" alt="cyberwolf333 top langs" /><br/><img src="https://streak-stats.demolab.com/?user=cyberwolf333&theme=radical&background=0a0e14&ring=00ff9f&fire=00e5ff&currStreakLabel=00ff9f&sideLabels=c9d1d9&sideNums=c9d1d9&dates=7d8b99&hide_border=true" alt="cyberwolf333 streak" /></div>
 <div align="center">
-text
-
 ╔══════════════════════════════════════════════════════════╗
 ║  lab only · authorized testing only · ship > theory      ║
-║                                                          ║
 ║  ★  ship something ugly this week — polish next week  ★  ║
 ╚══════════════════════════════════════════════════════════╝
-↑ back to top
-
 </div>
