@@ -38,7 +38,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=CYBERWOLF333&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -48,10 +47,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -91,15 +86,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
 
 ###
