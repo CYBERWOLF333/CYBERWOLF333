@@ -44,7 +44,7 @@
   <a href="https://github.com/cyberwolf333" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-cyberwolf333-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
   </a>
-  <a href="PASTE_LINKEDIN_URL_HERE" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ademola-mofeoluwa-0abab53b8" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
   <a href="PASTE_TWITTER_OR_X_URL_HERE" target="_blank" rel="noreferrer">
@@ -53,13 +53,7 @@
   <a href="PASTE_DISCORD_URL_HERE" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="28"/>
   </a>
-  <a href="PASTE_TWITCH_URL_HERE" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" height="28"/>
-  </a>
-  <a href="PASTE_DEVTO_URL_HERE" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" height="28"/>
-  </a>
-  <a href="PASTE_TRYHACKME_URL_HERE" target="_blank" rel="noreferrer">
+  <a href="https://tryhackme.com/p/johnhackwellkali8" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" height="28"/>
   </a>
   <a href="mailto:PASTE_EMAIL_HERE" target="_blank" rel="noreferrer">
@@ -67,9 +61,7 @@
   </a>
 </div>
 
-<p align="center"><sub>
-Don't use a site? Delete that whole <code>&lt;a href=...&gt;...&lt;/a&gt;</code> block so you don't have dead buttons.
-</sub></p>
+
 
 ---
 
