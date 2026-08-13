@@ -1,89 +1,119 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up!?</h1>
+<h1 align="center">Hey 👋 What's Up!?</h1>
 
-###
+<h3 align="center">
+  XUL (cyberwolf333) — builder · pentester · reverse engineer · purple team
+</h3>
 
-<br clear="both">
+<p align="center">
+  ships tools · breaks systems in labs · writes detections for his own attacks
+  <br />
+  <strong>EAT!! SLEEP!! CODE!!</strong>
+</p>
 
-<h2 data-importer="text" align="center">XUL (cyberwolf333) — builder, pentester, reverse engineer, and purple-teamer who ships tools, breaks systems in labs, and writes detections for his own attacks.<br><br>           EAT!! SLEEP!! CODE!!</h2>
+---
 
-###
+### languages & tools
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,bash,go,rust,js,linux" height="48" alt="skills" />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+### connect with me
+
+<!-- 
+  HOW TO MAKE THESE WORK:
+  Replace ONLY the href="..." value on each line.
+  Keep the rest the same.
+
+  LinkedIn example:  href="https://www.linkedin.com/in/your-real-slug"
+  Twitter/X example: href="https://x.com/yourhandle"
+  Discord:           invite link OR https://discord.com/users/YOUR_USER_ID
+  Twitch:            href="https://twitch.tv/yourchannel"
+  Dev.to:            href="https://dev.to/yourusername"
+  TryHackMe:         href="https://tryhackme.com/p/yourusername"
+  Email:             href="mailto:you@email.com"
+  Telegram:          href="https://t.me/yourusername"
+  YouTube:           href="https://youtube.com/@yourchannel"
+  WhatsApp:          href="https://wa.me/234XXXXXXXXXX"  (country code, no +)
+  GitHub:            already set to you
+-->
+
+<div align="center">
+  <a href="https://github.com/cyberwolf333" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-cyberwolf333-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
+  </a>
+  <a href="PASTE_LINKEDIN_URL_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+  <a href="PASTE_TWITTER_OR_X_URL_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="28"/>
+  </a>
+  <a href="PASTE_DISCORD_URL_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="28"/>
+  </a>
+  <a href="PASTE_TWITCH_URL_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" height="28"/>
+  </a>
+  <a href="PASTE_DEVTO_URL_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" height="28"/>
+  </a>
+  <a href="PASTE_TRYHACKME_URL_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" height="28"/>
+  </a>
+  <a href="mailto:PASTE_EMAIL_HERE" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
+  </a>
 </div>
 
-###
+<p align="center"><sub>
+Don't use a site? Delete that whole <code>&lt;a href=...&gt;...&lt;/a&gt;</code> block so you don't have dead buttons.
+</sub></p>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=CYBERWOLF333&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+---
+
+### streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CYBERWOLF333&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
+### pacman
+
+<!-- LEFT EXACTLY AS YOUR SETUP — do not change unless the animation branch/path changes -->
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+---
 
-<br clear="both">
+### stats · languages · trophies · activity
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
-###
+<br />
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=CYBERWOLF333.CYBERWOLF333&"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CYBERWOLF333/CYBERWOLF333/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity graph" />
 </div>
 
-###
-<br clear="both">
+---
 
-<div data-importer="music" align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=314edmlifbletaoevaa2woutvbrq" target="_blank">
-    <img src="https://vercel.app" alt="Spotify recently played" />
-  </a>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CYBERWOLF333.CYBERWOLF333" alt="profile views" />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-</div>
-
-###
+<p align="center">
+  lab only · authorized testing only · ship &gt; theory
+</p>
