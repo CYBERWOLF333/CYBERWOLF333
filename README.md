@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up!?</h1>
 
 <h3 align="center">
-  XUL (cyberwolf333) — builder · pentester · reverse engineer · purple team
+  XUL (cyberwolf333) — builder · pentester · linux administrator · red teamer
 </h3>
 
 <p align="center">
