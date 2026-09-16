@@ -15,7 +15,7 @@
 ### languages & tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,bash,go,rust,js,linux" height="48" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=py,c,bash,go,linux" height="48" alt="skills" />
 </div>
 
 ---
